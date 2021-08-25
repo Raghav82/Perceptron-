@@ -1,2 +1,2 @@
 # Perceptron-
-Supervised machine learning for binary classification.  One of the earliest machine learning Algorithms
+Perceptron is a binary classificatiop algorithm which was developed in 1967 by Frank Rosenblatt as a binary classification algorithm for image recognition.  It had a very promising start but limitations were soon  discovered, such as its inability to solve "XOR"  problems  or correctly classify data which was not linearly separable. Yet, perceptron was just the beginning, the  XOR problem would be solved by a direct descendent of perceptron , know as a multi-layered perceptron or neural networks and Machine Learning algorithm would emerge to tackle the problem sets which perceptron  was unable to
