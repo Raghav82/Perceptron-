@@ -1,2 +1,4 @@
 # Perceptron
 Perceptron is a binary classificatiop algorithm which was developed in 1967 by Frank Rosenblatt as a binary classification algorithm for image recognition.  It had a very promising start but limitations were soon  discovered, such as its inability to solve "XOR"  problems  or correctly classify data which was not linearly separable. Yet, perceptron was just the beginning, the  XOR problem would be solved by a direct descendent of perceptron , know as a multi-layered perceptron or neural networks and Machine Learning algorithm would emerge to tackle the problem sets which perceptron  was unable to
+
+*I do need to make one change.  The data set I used is all decimal numbers < 1  and my algorithm works on this particular dataset but is not generalized in that respect.  However I am going to implement the sin function on the outputs within the prediction function to get get a value of -1 or 1
